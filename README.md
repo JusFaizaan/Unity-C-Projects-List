@@ -1,5 +1,5 @@
-# Unity-C#-Projects-List
-Simple list showcasing the list of Unity C# projects that have been released 
+# Unity C# Projects List
+Simple list showcasing the list of Unity C# projects that I have developed and released 
 
 The Elysian Field - https://store.steampowered.com/app/1657290/The_Elysian_Field/ - 2021
 
